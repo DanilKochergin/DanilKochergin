@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     💼 Android Engineer • Platform Engineer
-    💻 Kotlin • Java • Compose
+    💻 Kotlin • Compose
     🎓 University after school
     🎮 Games • Anime • Music 
     🔔 Open to work
